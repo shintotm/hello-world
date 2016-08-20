@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Working out git features.
